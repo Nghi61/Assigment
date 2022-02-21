@@ -1,0 +1,71 @@
+body{
+    background-image: url(/images/AnhDangNhap.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.k1{
+    width: 100%;
+    border: 1px solid rgba(0,0,0,0);
+    text-align: center;
+    margin-top: 200px;
+}
+.n1{
+    width: 30%;
+    color: white;
+    min-height: 50px;
+    background: rgba(0,0,0,0);
+    font-size: 14pt;
+    padding: 5px 10px;
+}
+.n1:focus{
+    outline: none;
+}
+.n2{
+    width: 30%;
+    color: white;
+    min-height: 50px;
+    background: rgba(0,0,0,0);
+    margin-top: 30px;
+    font-size: 14pt;
+    padding: 5px 10px;
+}
+.n2:focus{
+    outline: none;
+}
+.n3{
+    width: 20%;
+    color: white;
+    min-height: 30px;
+    background: rgba(0,0,0,0);
+    color: white;
+    margin-left: 450px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.n4{
+    background-color: white ;
+    width: 32%;
+    min-height: 70px;
+    font-size: 16pt;
+}
+.n5{
+    margin-top: 20px;
+    width: 10;
+    color: white;
+}
+.n5 a:hover{
+    color: red;
+}
+.n5 a{
+    color: white;
+    text-decoration: none;
+    font-size: 14pt;
+}
+.m1{
+    margin-right: 150px;
+}
+span{
+    color: white;
+    font-size: 14pt;
+}
