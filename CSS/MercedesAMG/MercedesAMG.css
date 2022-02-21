@@ -1,0 +1,377 @@
+*{
+    box-sizing: border-box;
+    background-color: black;
+}
+header{
+    width:100%;
+    height:150px;
+    background-color: black;
+    border-bottom: 1px solid gray;
+}
+header img{
+    margin-top: 20px;
+    height: 70%;
+}
+.ttk{
+    margin-right: 80px;
+    margin-top: 40px;
+    float: right;  
+    background-color: white;
+    width: 400px;
+    height: 40px;
+    padding: 30px;
+    border-radius: 20px;
+}
+.boxleft{
+    min-height: 500px;
+    background-color: white;
+}
+.lc{
+    height: 400px;
+    width: 100%;
+    background-color: white;
+}
+.lc ul{
+    background-color: gray;
+    width: 80%;
+    background-color: white;
+}
+.lc li {
+    background-color: white;
+}
+.lc li a {
+    background-color: white;
+    margin-right: 20px;
+    border: 1px solid gray;
+    padding: 10px 20px;
+    background-color: gray;
+}
+.lc li a:hover{
+    color: lightskyblue;
+}
+.k1{
+    width: 100%;
+    min-height: 300px;
+    position: relative;
+}
+.k1 img{
+    width: 100%;
+    min-height: 300px;
+}
+.apdiv1{
+    background: rgba(0,0,0,0);
+    top: 250px;
+    position: absolute;
+    width: 30%;
+    min-height: 70px;
+    color: gray;
+    font-size: 16pt;
+}
+.apdiv1 .app1{
+    background: rgba(0,0,0,0)
+}
+.apdiv1 .app2{
+    background: rgba(0,0,0,0)
+}
+.k2{
+    background-color: white;
+    width: 100%;
+    float: left;
+    min-height: 300px;
+    margin-top: 10px;
+}
+.k2p1{
+    float: left;
+    border-bottom: 1px solid gray ;
+    color: black;
+    background-color: white;
+}
+.k2p2{
+    margin-top: 100px;
+    color: black;
+    background-color: white;
+}
+.k2p3{
+    color: black;
+    background-color: white;    
+}
+.k3{
+    min-height: 500px;
+    width: 100%;
+    background-color: white;
+}
+.k4{
+    background-color: white;
+    width: 100%;
+    float: left;
+    min-height: 300px;
+    margin-top: 10px;
+}
+.k4p1{
+    float: left;
+    border-bottom: 1px solid gray ;
+    color: black;
+    background-color: white;
+}
+.k4p2{
+    margin-top: 100px;
+    color: black;
+    background-color: white;
+}
+.k4p3{
+    color: black;
+    background-color: white;    
+}
+.k5{
+    width: 100%;
+    background-color: white;
+    float: left;
+    min-height: 300px;  
+}
+.apdiv2{
+    background: rgba(0,0,0,0);
+    bottom: -2100px;
+    position: absolute;
+    width: 100%;
+    min-height: 70px;
+    color: white;
+    font-size: 16pt;
+}
+.k5 img{
+    height: 100%;
+    width: 100%;
+}
+.apdiv2 .app1{
+    background: rgba(0,0,0,0);
+    font-size: 40pt;
+    margin-left: 100px;
+    color: white;
+}
+.apdiv2 .app2{
+    background: rgba(0,0,0,0);
+    font-size: 20pt;
+    color: white;
+    margin-left: 200px;
+}
+.apdiv3{
+    background: rgba(0,0,0,0);
+    bottom: -3400px;
+    position: absolute;
+    width: 100%;
+    min-height: 70px;
+    color: white;
+    font-size: 16pt;
+}
+.apdiv3 .app1{
+    background: rgba(0,0,0,0);
+    font-size: 40pt;
+    color:black;
+    margin-left: 700px;
+}
+.apdiv3 .app2{
+    background: rgba(0,0,0,0);
+    font-size: 20pt;
+    color: black;
+    margin-left: 500px;
+}
+.apdiv4{
+    background: rgba(0,0,0,0);
+    bottom: -4000px;
+    position: absolute;
+    width: 100%;
+    min-height: 70px;
+    font-size: 16pt;
+}
+.apdiv4 .app1{
+    background: rgba(0,0,0,0);
+    font-size: 40pt;
+    color: white;
+    margin-left: 100px;
+}
+.apdiv4 .app2{
+    background: rgba(0,0,0,0);
+    font-size: 20pt;
+    color: white;
+    margin-top: 0px;
+    margin-left: 200px;
+}
+.k6{
+    background-color: white;
+    width: 100%;
+    float: left;
+    min-height: 300px;
+    margin-top: 10px;
+}
+.k6p1{
+    float: left;
+    border-bottom: 1px solid gray ;
+    color: black;
+    background-color: white;
+}
+.k6p2{
+    margin-top: 100px;
+    color: black;
+    background-color: white;
+}
+.k6p3{
+    color: black;
+    background-color: white;    
+}
+.k3{
+    float: right;
+    width: 100%;
+    background-color: white;
+}
+.k7 img{
+    float: right;
+    width: 50%;
+}
+.k7p1{
+    float: left;
+    color: black;
+    background-color: white;
+    margin-top: 0px;
+    margin-right: 30px;
+    width: 45%;
+}
+.k7p1 b{
+    color: black;
+    background-color: white;
+    margin-top: 0px;
+    margin-right: 30px;
+    width: 45%;
+}
+.box3{
+    float:right;
+    margin-right: 10px;
+    width: 4%;
+    margin-top: 500px;
+    height: 50px;
+    color: white;
+}
+.box3 img{
+    width: 100%;
+    height: 100%;
+}
+.box4{
+    float:left;
+    width: 20%;
+    height: 500px;
+}
+.box4 a{
+    color: gray;
+    float: left;
+    font-size: 15pt;
+    text-decoration: none;
+    margin: 20px;
+}
+.box4 a:hover{
+    color: navy;
+    font-size: 16pt;
+    text-decoration: underline;
+}
+.box4 b{
+    color: white;
+    float: left;
+    font-size: 20pt;
+    margin-top: 200px ;  
+    margin-left: 20px;
+}
+nav{
+    width:100%;
+    height: 10px;
+    margin-bottom: 15px;
+    background-color: black;
+}
+.row menu{
+    width: 100%;
+    background-color: white;
+}
+.vmenu{
+    position: relative;
+    z-index: 99999;
+}
+ul{
+    display: flex;
+    font-size: 16pt;
+    font-style: unset;
+}
+ul li{
+    list-style: none;
+}
+ul li a{
+    display: block;
+    padding: 0 20px;
+    line-height: 55px;
+    color: white;
+    text-decoration: none;
+}
+ul li:hover>a{
+    border-top: 2px solid navy;
+    color: gray;
+}
+ul li ul{
+    display: none;
+    min-width: 350px;
+    position: absolute;
+}
+ul li ul li{
+    border-bottom: 1px solid grey;
+    background: black;
+    margin-left: -40px
+}
+ul li:hover>ul{
+    display: block;
+}
+article{
+    float:left;
+    width:100%;
+    height: 50%;    
+    background-color: white;
+}
+footer{
+    width:100%;
+    height:100%;
+    background-color: black;
+}
+span{
+    width: 100%;
+    color: cadetblue;
+    text-align: center;
+    font-size: 20pt;
+    background-color: white;
+}
+p{
+    font-size: 20pt;
+    color: white;
+    float: right;
+    margin: 0 5px;
+    margin-top: 60px;
+}
+i{
+    font-size: 50pt;
+    margin: 0 10px;
+}
+#myBtn { 
+    bottom: 60px;
+    right: 10px;
+    z-index: 99;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 30px;
+    opacity: 0.7;
+    }
+fieldset{
+    text-align: center;
+    border: none;
+}
+legend{
+    margin-left: 100px;
+}
+.n1{
+    margin-left: 100px;
+}
+iframe{
+    background-color: white;
+}

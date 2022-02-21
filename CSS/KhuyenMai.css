@@ -1,0 +1,106 @@
+.header{
+    background-color: black;
+    width: 100%;
+}
+.than{
+    width: 100%;
+    min-height: 500px;
+    margin-bottom: 150px;
+}
+.ket{
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    margin: auto;
+}
+.k1{
+    width: 100%;
+    min-height: 300px;
+    position: relative;
+    margin: auto;
+}
+.k1 video{
+    width: 80%;
+    margin-left: 10%;
+    min-height: 300px;
+}
+.k2{
+    width:90%;
+   background-color: white  ;
+   padding: 0;
+   margin-bottom: 100px;
+}
+.k3{
+    width: 80%;
+    margin: 0 auto;
+    border-top: 1px solid gray;
+}
+.k4 {
+    width: 80%;
+    margin: auto;
+}
+.k4 p{
+    margin-top: 40px;
+    float: left;
+}
+.k4 p a{
+    float: left;
+    margin: 0 20px;
+    text-decoration: none;
+    color: gray;
+}
+.k4 p a:hover{
+    text-decoration: underline white;
+    color: white;
+}
+h3{
+    color: lightslategray;
+}
+.b1{
+    width: 100%;
+    height: 30px;
+    padding: 10px;
+}
+.b2{
+    width: 40%;
+    height: 30px;
+    margin-right: 3px;
+    float: left;
+    padding: 10px;
+    margin-top: 40px;
+}
+.b3{
+    width: 40%;
+    right: 130px;
+    height: 30px;
+    position: absolute;
+    margin: 0;
+    padding: 10px;
+    margin-top: 40px;
+}
+.b4{
+    width: 100%;
+    height: 30px;
+    padding: 10px;
+    margin-top: 40px;
+}
+.button{
+    color: white;
+    margin-top: 30px;
+    float: right;
+    width: 150px;
+    font-size: 14pt;
+    height: 70px;
+    background-color: black;
+    border-radius: 5px;
+    padding: 20px;
+}
+.button a:hover{
+    color: gray;
+}
+button a{
+    text-decoration: none;
+    color: white;
+    font-style: inherit;
+}
+

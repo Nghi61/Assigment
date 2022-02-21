@@ -1,0 +1,37 @@
+.k3 img{
+    width: 50%;
+    float: left;
+    margin-bottom: 50px;
+}
+.k3p1{
+    color: black;
+    background-color: white;
+    margin-top: 0px;
+    margin-left: 50px;
+    width: 45%;
+}
+p{
+    margin: 10px;
+    float: left;
+    font-size: 16pt;
+}
+br{
+    clear: both;
+}
+.k4{
+    color: black;
+    background-color: white;
+    margin-top: 0px;
+    margin-right: 30px;
+    width: 70%;
+}
+.k4p1 {
+    font-size: 12pt;
+    color: black;
+    background-color: white;
+    width: 100%;
+}
+.k4 b{
+    width: 60%;
+    font-size: 14pt;
+}
